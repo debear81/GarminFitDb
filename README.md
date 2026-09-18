@@ -148,9 +148,11 @@ It is also a good idea to keep downloaded activity data outside the Git reposito
 
 ## Disclaimer
 
-GarminFitDb is an independent project and is not affiliated with, endorsed by, or supported by Garmin Ltd. or its affiliates.
+Use the software with your own Garmin account and data at your own risk. Garmin and Garmin Connect are trademarks of their respective owners. Users are responsible for complying with Garmin's applicable terms of service and for protecting their own account credentials and activity data.
 
-Use the software with your own Garmin account and data at your own risk. Garmin and Garmin Connect are trademarks of their respective owners.
+GarminFitDb is an independent, unofficial project and is not affiliated with, endorsed by, or supported by Garmin Ltd. or its subsidiaries.
+
+GarminFitDb is provided without warranty. See the LICENSE file for additional terms.
 
 ## License
 
